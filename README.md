@@ -190,7 +190,7 @@ $config = new LicenseChainConfig([
     'apiKey' => 'your-api-key',
     'appName' => 'your-app-name',
     'version' => '1.0.0',
-    'baseUrl' => 'https://api.licensechain.com' // Optional
+    'baseUrl' => 'https://api.licensechain.app' // Optional
 ]);
 
 $client = new LicenseChainClient($config);
@@ -298,7 +298,7 @@ export LICENSECHAIN_APP_NAME=your-app-name
 export LICENSECHAIN_APP_VERSION=1.0.0
 
 # Optional
-export LICENSECHAIN_BASE_URL=https://api.licensechain.com
+export LICENSECHAIN_BASE_URL=https://api.licensechain.app
 export LICENSECHAIN_DEBUG=true
 ```
 
@@ -309,7 +309,7 @@ $config = new LicenseChainConfig([
     'apiKey' => 'your-api-key',
     'appName' => 'your-app-name',
     'version' => '1.0.0',
-    'baseUrl' => 'https://api.licensechain.com',
+    'baseUrl' => 'https://api.licensechain.app',
     'timeout' => 30,        // Request timeout in seconds
     'retries' => 3,         // Number of retry attempts
     'debug' => false,       // Enable debug logging
@@ -453,10 +453,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [https://docs.licensechain.com/php](https://docs.licensechain.com/php)
+- **Documentation**: [https://docs.licensechain.app/php](https://docs.licensechain.app/php)
 - **Issues**: [GitHub Issues](https://github.com/LicenseChain/LicenseChain-PHP-SDK/issues)
 - **Discord**: [LicenseChain Discord](https://discord.gg/licensechain)
-- **Email**: support@licensechain.com
+- **Email**: support@licensechain.app
 
 ## 🔗 Related Projects
 
