@@ -1,0 +1,69 @@
+{
+    "name": "licensechain/php-sdk",
+    "description": "Official LicenseChain PHP SDK for license management and validation",
+    "type": "library",
+    "license": "Elastic-2.0",
+    "authors": [
+        {
+            "name": "LicenseChain Team",
+            "email": "support@licensechain.app"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0",
+        "ext-json": "*",
+        "ext-curl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0",
+        "phpstan/phpstan": "^1.0",
+        "squizlabs/php_codesniffer": "^3.0",
+        "php-cs-fixer/shim": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LicenseChain\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LicenseChain\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "test-coverage": "phpunit --coverage-html coverage",
+        "cs-check": "phpcs",
+        "cs-fix": "phpcbf",
+        "stan": "phpstan analyse",
+        "quality": [
+            "@cs-check",
+            "@stan",
+            "@test"
+        ]
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "keywords": [
+        "license",
+        "validation",
+        "api",
+        "sdk",
+        "php",
+        "licensechain",
+        "license-management",
+        "webhook",
+        "authentication"
+    ],
+    "homepage": "https://docs.licensechain.app/sdks/php",
+    "support": {
+        "email": "support@licensechain.app",
+        "issues": "https://github.com/LicenseChain/LicenseChain-PHP-SDK/issues",
+        "source": "https://github.com/LicenseChain/LicenseChain-PHP-SDK"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
