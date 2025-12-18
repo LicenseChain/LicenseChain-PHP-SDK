@@ -1,5 +1,5 @@
 {
-    "name": "licensechain/php-sdk",
+    "name": "licensechain/sdk",
     "description": "Official LicenseChain PHP SDK for license management and validation",
     "type": "library",
     "license": "Elastic-2.0",
