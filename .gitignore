@@ -90,3 +90,5 @@ jspm_packages/
 # Local agent / OPSEC
 .claude/
 CLAUDE.md
+composer.lock.bak
+.phpunit.result.cache
