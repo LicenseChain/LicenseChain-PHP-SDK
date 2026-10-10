@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-10-10
+
+- Aligned CI PHP matrix to 8.2/8.3/8.4 (matches `composer.json` `php: >=8.2`).
+- Bumped `actions/checkout` to v7 in CI.
+
+
 ## [1.0.1] - 2026-10-10
 
 - Relicensed public surface under Elastic License 2.0 (ELv2).
