@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.2",
         "guzzlehttp/guzzle": "^7.0",
         "firebase/php-jwt": "^7.0",
         "ext-json": "*",
@@ -67,5 +67,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
