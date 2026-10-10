@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2026-10-10
+
+- Relicensed public surface under Elastic License 2.0 (ELv2).
+- Raised PHP requirement from `>=8.0` to `>=8.2`.
+- Added Dependabot for Composer and GitHub Actions.
+
 All notable changes to this SDK are documented in this file.
 
 
