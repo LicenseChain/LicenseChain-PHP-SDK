@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 2026-10-12
+
+- Removed root composer.json `version` field so Packagist versions come from Git tags.
+
+
 ## [1.0.2] - 2026-10-10
 
 - Aligned CI PHP matrix to 8.2/8.3/8.4 (matches `composer.json` `php: >=8.2`).
