@@ -66,6 +66,5 @@
         "source": "https://github.com/LicenseChain/LicenseChain-PHP-SDK"
     },
     "minimum-stability": "stable",
-    "prefer-stable": true,
-    "version": "1.0.1"
+    "prefer-stable": true
 }
