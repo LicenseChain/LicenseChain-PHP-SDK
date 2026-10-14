@@ -4,6 +4,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.0+-blue.svg)](https://www.php.net/)
 [![Packagist](https://img.shields.io/packagist/v/licensechain/sdk)](https://packagist.org/packages/licensechain/sdk)
 [![Composer](https://img.shields.io/badge/Composer-2.0+-green.svg)](https://getcomposer.org/)
+[![CI](https://github.com/LicenseChain/LicenseChain-PHP-SDK/actions/workflows/ci.yml/badge.svg)](https://github.com/LicenseChain/LicenseChain-PHP-SDK/actions/workflows/ci.yml)
 
 Official PHP SDK for LicenseChain - Secure license management for PHP applications.
 
