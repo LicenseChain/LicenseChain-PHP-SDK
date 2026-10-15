@@ -485,15 +485,15 @@ This project is licensed under the Elastic License 2.0 (ELv2) — see the [LICEN
 
 ## 🆘 Support
 
-- **Documentation**: [https://docs.licensechain.app/php](https://docs.licensechain.app/php)
+- **Documentation**: [https://docs.licensechain.app/en/sdk](https://docs.licensechain.app/en/sdk)
 - **Issues**: [GitHub Issues](https://github.com/LicenseChain/LicenseChain-PHP-SDK/issues)
 - **Discord**: [LicenseChain Discord](https://discord.gg/licensechain)
 - **Email**: support@licensechain.app
 
 ## 🔗 Related Projects
 
-- [LicenseChain JavaScript SDK](https://github.com/LicenseChain/LicenseChain-JavaScript-SDK)
 - [LicenseChain Python SDK](https://github.com/LicenseChain/LicenseChain-Python-SDK)
+- [LicenseChain Ruby SDK](https://github.com/LicenseChain/LicenseChain-Ruby-SDK)
 - [LicenseChain Node.js SDK](https://github.com/LicenseChain/LicenseChain-NodeJS-SDK)
 ---
 
@@ -513,4 +513,3 @@ This SDK targets the **LicenseChain HTTP API v1** implemented by the LicenseChai
   - PATCH /licenses/:id/activate
   - PATCH /licenses/:id/extend
   - GET /analytics/stats
-
