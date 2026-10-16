@@ -4,10 +4,10 @@
 
 - Keep API base behavior aligned with `https://api.licensechain.app/v1`.
 - Maintain `verifyWithDetails` and JWT/JWKS helper compatibility.
-- Keep parity with shared license verification response expectations.
+- Keep Packagist versions driven by Git tags (no root composer `version` field).
 
 ## Next Operational Tasks
 
-- Re-run conformance when verify/JWKS contracts change.
-- Keep docs references and usage examples current.
-- Track notable changes in `CHANGELOG.md`.
+- Re-run conformance checks after Core API verify/JWKS contract updates.
+- Keep docs and examples synchronized with https://docs.licensechain.app/en/sdk.
+- Record release-impacting changes in `CHANGELOG.md`; develop experiments on `dev`, release from `main`.
