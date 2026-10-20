@@ -92,3 +92,6 @@ jspm_packages/
 CLAUDE.md
 composer.lock.bak
 .phpunit.result.cache
+
+# Cursor indexing (local only)
+.cursorindexingignore
