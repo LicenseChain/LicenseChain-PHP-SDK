@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main, develop, dev ]
   pull_request:
-    branches: [ main, develop ]
+    branches: [ main, develop, dev ]
 
 jobs:
   test:
@@ -34,5 +34,5 @@ jobs:
       run: vendor/bin/phpstan analyse || true
     
     - name: Run tests
-      run: vendor/bin/phpunit || true
+      run: vendor/bin/phpunit tests/ || true
 

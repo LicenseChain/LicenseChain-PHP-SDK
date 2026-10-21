@@ -5,6 +5,10 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+- README PHP badge aligned to 8.2+; added `phpunit.xml.dist`; CI also runs on `dev`.
+
 ## [1.0.3] - 2026-10-12
 
 - Removed root composer.json `version` field so Packagist versions come from Git tags.

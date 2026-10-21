@@ -1,7 +1,7 @@
 # LicenseChain PHP SDK
 
 [![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
-[![PHP](https://img.shields.io/badge/PHP-8.0+-blue.svg)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://www.php.net/)
 [![Packagist](https://img.shields.io/packagist/v/licensechain/sdk)](https://packagist.org/packages/licensechain/sdk)
 [![Downloads](https://img.shields.io/packagist/dm/licensechain/sdk)](https://packagist.org/packages/licensechain/sdk)
 [![Composer](https://img.shields.io/badge/Composer-2.0+-green.svg)](https://getcomposer.org/)
