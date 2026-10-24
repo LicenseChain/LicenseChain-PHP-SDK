@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "guzzlehttp/guzzle": "^7.0",
+        "guzzlehttp/guzzle": "^7.0 || ^8.0",
         "firebase/php-jwt": "^7.0",
         "ext-json": "*",
         "ext-curl": "*"
