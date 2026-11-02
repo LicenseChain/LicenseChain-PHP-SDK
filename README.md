@@ -1,6 +1,6 @@
 # LicenseChain PHP SDK
 
-[![License](https://img.shields.io/badge/license-Elastic--2.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-blue.svg)](https://www.php.net/)
 [![Packagist](https://img.shields.io/packagist/v/licensechain/sdk)](https://packagist.org/packages/licensechain/sdk)
 [![Downloads](https://img.shields.io/packagist/dm/licensechain/sdk)](https://packagist.org/packages/licensechain/sdk)
@@ -478,7 +478,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📄 License
 
-This project is licensed under the Elastic License 2.0 (ELv2) — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License (ELv2) — see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
